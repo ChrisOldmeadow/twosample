@@ -1,0 +1,16 @@
+#+TITLE: Readme
+
+
+* About
+
+A series of scripts to investigate operating characteristics (power and tytpe 1 error rate) through simulation for a few different scenarios:
+
+* Two binomial proportions
+
+
+* Two means
+
+* Two poisson counts/rates
+
+
+* Two survival distributions
